@@ -1,0 +1,9 @@
+{
+    "[php]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.config": ".php-cs-fixer.php;.php-cs-fixer.dist.php;.php_cs;.php_cs.dist",
+    "intelephense.environment.phpVersion": "8.1.1",
+}
